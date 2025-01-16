@@ -1,5 +1,3 @@
-﻿using System.IO.Pipelines;
-
 Console.WriteLine("Kwota kredytu:");
 int kwota = Convert.ToInt32(Console.ReadLine());
 
